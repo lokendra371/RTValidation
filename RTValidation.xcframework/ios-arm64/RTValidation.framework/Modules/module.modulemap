@@ -1,0 +1,6 @@
+framework module RTValidation {
+  umbrella header "RTValidation.h"
+  export *
+
+  module * { export * }
+}
